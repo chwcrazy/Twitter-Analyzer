@@ -1,0 +1,500 @@
+id: 569297686291214336, text: RT @KirkDBorne: 3 Reasons Why We Fail to Recognize Women in Tech: http://t.co/z0axzwARdY by @Rachelwolf00 HT @bigdata #StrataHadoop http://\u2026
+id: 569297719627534336, text: RT @KirkDBorne: \"@MapR Releases New Hadoop Distribution, Adds Quick-Start Solutions for #BigData #Analytics\" http://t.co/c8KgdkGEHm by @the\u2026
+id: 569297740099952640, text: RT @SocialPRC: #Alibaba #bigdata @SocialNewsCorp http://t.co/1alDjzOUs1 via #twitter @SEMANAeconomica @Aoireil @coma_rise_sos
+id: 569297766171742208, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569297767732019200, text: RT @stephenjeske: A Very Short History Of #DataScience by @GilPress via @Forbes http://t.co/nqklfRhmLe #BigData
+id: 569297768545705985, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569297816188809216, text: One year of tweets, zoom in!!! #BigData #Spark #Cassandra #QGis #TimeManager https://t.co/VV8MQTCWJg
+id: 569297874019852288, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569297879413760000, text: Bringing #BigData to the Fight Against Benefits Fraud http://t.co/XJy5jyEEJU via @nytimes
+id: 569297896572645376, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569297897662971904, text: RT @seldauz: How NZ is transforming Social #welfare with #analytics : http://t.co/t7KprJQByC #smartgov #bigdata
+id: 569297900909551616, text: RT @vinceyue666: App signing ... - http://t.co/MrNrxrhvTj\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms\u2026
+id: 569297901639340032, text: RT @maxxpowerss8: RT vinceyue666: Sci-Industrial ... - http://t.co/9NIoQRIchb\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #f\u2026
+id: 569297907960184832, text: RT @abxda: One year of tweets, zoom in!!! #BigData #Spark #Cassandra #QGis #TimeManager https://t.co/VV8MQTCWJg
+id: 569297908769665024, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569297910267027457, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569297911047188480, text: RT @SocialPRC: #Alibaba #bigdata @SocialNewsCorp http://t.co/1alDjzOUs1 via #twitter @SEMANAeconomica @Aoireil @coma_rise_sos
+id: 569297918328496128, text: RT @CraigMilroy: How everyone can become a #datascientist http://t.co/rs2zFKrdDB via @IBMbigdata @robdthomas #bigdata
+id: 569297924712050689, text: RT @KirkDBorne: How everyone can become a #DataScientist: http://t.co/uSmVPKdjYH via @IBMbigdata #BigData #Analytics
+id: 569297971151400961, text: RT @hishamsafadi: \u201c@ArjenSAP: Top 10 #IoT Trends http://t.co/nkVfLKsBIZ\u201d #entrepreneur #business #startup #china #india #dubai #USA #UK #Eu\u2026
+id: 569298060729307137, text: RT @ProjVision: The CIO Can't Afford Ignorance of #BigData Tech http://t.co/atHCMIGHyv http://t.co/wsJJsjTLfX
+id: 569298073643384832, text: RT @CraigMilroy: How everyone can become a #datascientist http://t.co/rs2zFKrdDB via @IBMbigdata @robdthomas #bigdata
+id: 569298096074526720, text: RT @Randy_Cairns: Wired: White House Names DJ Patil as the First US Chief Data Scientist http://t.co/5ugYGgg4QG #bigdata #data http://t.co/\u2026
+id: 569298143721840640, text: RT @aircooled6: US Govt finally waking up to the power of #BigData #PredictiveAnalytics and #Machinelearning @wired http://t.co/wHnZkoJR1b
+id: 569298187195785216, text: RT @abxda: One year of tweets, zoom in!!! #BigData #Spark #Cassandra #QGis #TimeManager http://t.co/OtzWwhk3Xv
+id: 569298226320257024, text: RT @CraigMilroy: . @Intel partners with @Databricks to push adoption of the #Spark data-processing\u00a0engine http://t.co/zwi5QSfC1I via @Ventu\u2026
+id: 569298274508648448, text: RT @CraigMilroy: . @Progressive Builds Virtual Garage for Testing #Mobile #Tech http://t.co/0sFtuoL391 via @WSJ #bigdata #InternetofThings
+id: 569298305424891904, text: RT @InfosysCareers: Join Infosys USA as we change the #ICP #industry with #BigData, #Analytics &amp; #BusinessIntelligence. http://t.co/ktdGIWm\u2026
+id: 569298335355543552, text: RT @AngelaZutavern: Faster #datascience --&gt; placing the data near the computation https://t.co/NksnrJ00BW #bigdata http://t.co/GyhADqHSk6
+id: 569298361473376259, text: RT @PraxaAus: #BigData &amp; predictive maps help police prioritise patrols http://t.co/Br0Bf7NtMF
+id: 569298425771982851, text: RT @spsteve: Another great MongoDB tool -- MongoChef  http://t.co/XqDVQKd3sI #bigdata #tiredofshell
+id: 569298473394180096, text: RT @vinceyue666: Developer ... - http://t.co/DbNK926Rxi\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #\u2026
+id: 569298517795037184, text: RT @Datafloq: Walt Disney\ufffds Magical Touch Becomes Even Better With Big Data http://t.co/vY7if1OxIj #BigData
+id: 569298525416263680, text: RT @KirkDBorne: 3 Reasons Why We Fail to Recognize Women in Tech: http://t.co/z0axzwARdY by @Rachelwolf00 HT @bigdata #StrataHadoop http://\u2026
+id: 569298526548598784, text: RT @kdnuggets: #BigData reveals how information travels: countries in #Europe divide into 8 clusters http://t.co/9UexCf6bdx http://t.co/EQD\u2026
+id: 569298536367587328, text: RT @CraigMilroy: . @Progressive Builds Virtual Garage for Testing #Mobile #Tech http://t.co/0sFtuoL391 via @WSJ #bigdata #InternetofThings
+id: 569298556366000129, text: Within 5 years the #CMO will spend more on IT than the CIO. http://t.co/Ixg1Wsv7pI #BigData is one of the reasons. http://t.co/Tozr2pDW8U
+id: 569298565752709121, text: #IoT What's that thing? Whatever it is, it needs security #tech http://t.co/z4NgHfpcE8 #bigdata
+id: 569298569879879680, text: RT @Kiura_nl: Size Matters: Five Security Tips for Small Businesses http://t.co/n2K0z5hwqF #BigData by @ricknotdelgado
+id: 569298577949904896, text: RT @SocialPRC: #Alibaba #bigdata @SocialNewsCorp http://t.co/1alDjzOUs1 via #twitter @SEMANAeconomica @Aoireil @coma_rise_sos
+id: 569298608002080768, text: RT @abxda: One year of tweets, zoom in!!! #BigData #Spark #Cassandra #QGis #TimeManager https://t.co/VV8MQTCWJg
+id: 569298617816756224, text: Get a handle on #Hadoop with these tips and tricks for corraling and clustering your #BigData http://t.co/Ogz9NQ0M2R http://t.co/OplT8bDloq
+id: 569298625697701889, text: RT @xciteandempower: Technology Is Changing #Business #Decision Making http://t.co/tTC7nFA1dq &gt;@TechReview #BigData #Analytics #Datascience
+id: 569298633859866624, text: RT @domainomy: SophisIT .com ,Sophistinet .com for sale\nhttp://t.co/mtkERZC321\n#software2015 #development #tech #bigdata\n@Techinasia http:/\u2026
+id: 569298677807779840, text: RT @favData: The US is still the only developed #country that doesn\u2019t guarantee paid maternity leave  http://t.co/V0q49MAkxS #bigData
+id: 569298701132431360, text: Take note #teamgreen .. For now, #Spark looks like the future of #bigdata http://t.co/NltkIO5xGx via @gigaom #hadoop
+id: 569298742110588928, text: RT @favData: The link between parental leave and the gender pay gap | Pew Research Center  http://t.co/xq6tfvGXLN #bigData
+id: 569298759328378880, text: Fascinating growth, transport and density #BigData for #London #Delhi #Bogota #Tokyo http://t.co/86wSum2H7q | @guardiancities #GlobalCities
+id: 569298773173669888, text: RT @favData: An analysis of all the waste in the Ocean.  http://t.co/P9TotYgEgG #bigData
+id: 569298809110396929, text: RT @favData: Graph of the Population of Rome Through History http://t.co/8WNWRfQZ6F #bigData http://t.co/qvZrhxlX9J
+id: 569298924781109248, text: RT @HP: How will #bigdata make hospitals more effective? The Machine can help:  http://t.co/MO17F4pmX5 http://t.co/ATypLHj4V1
+id: 569299004099567617, text: RT @analyticbridge: Great list of resources: data science, visualization, machine learning, bigdata http://t.co/0rGylsvKkr
+id: 569299022281723904, text: #cloudcomputing #IaaS #DraaS #SaaS #PaaS #tech #bigdata #IoT #datacenter  #CyberSecurity #internet   http://t.co/PnRF6vuYM5 via @youtube
+id: 569299037758705664, text: RT @IBMclientvoices: Movie buff? @USC Annenberg Lab uses IBM #BigInsights to analyze movies, award buzz in real-time http://t.co/kr4Gl1CFBZ\u2026
+id: 569299059141435392, text: RT @xciteandempower: Technology Is Changing #Business #Decision Making http://t.co/tTC7nFA1dq &gt;@TechReview #BigData #Analytics #Datascience
+id: 569299059925778432, text: RT @AngelaZutavern: Faster #datascience --&gt; placing the data near the computation https://t.co/NksnrJ00BW #bigdata http://t.co/GyhADqHSk6
+id: 569299078770786305, text: What I mean when I talk about live chat integration into threaded discussions #socialmedia #bigdata #UX http://t.co/oJxSpUH111
+id: 569299083430629376, text: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569299106667077632, text: RT @mlloper: UNL professor develops #bigdata tool for bridge inspections: http://t.co/NTXr7dPVnM via @journalstarnews
+id: 569299132952797184, text: RT @IBMbigdata: While businesses have raced to use #bigdata, #nonprofits are just getting started. Read more on @BizTechMagazine: http://t.\u2026
+id: 569299164028391424, text: RT @ComputerworldBR: Como Airbnb e Starbucks usam big data para obter vantagem competitiva #bigdata  http://t.co/DJdIkvUYCm
+id: 569299189659766784, text: RT @correctdesign: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569299190418944003, text: RT @correctdesign: What I mean when I talk about live chat integration into threaded discussions #socialmedia #bigdata #UX http://t.co/oJxS\u2026
+id: 569299191228444673, text: RT @AngelaZutavern: Faster #datascience --&gt; placing the data near the computation https://t.co/NksnrJ00BW #bigdata http://t.co/GyhADqHSk6
+id: 569299192167985152, text: RT @xciteandempower: Technology Is Changing #Business #Decision Making http://t.co/tTC7nFA1dq &gt;@TechReview #BigData #Analytics #Datascience
+id: 569299193224953856, text: RT @IBMclientvoices: Movie buff? @USC Annenberg Lab uses IBM #BigInsights to analyze movies, award buzz in real-time http://t.co/kr4Gl1CFBZ\u2026
+id: 569299267992596480, text: RT @RebellionAI: Preact supports SaaS by providing tailored service to improve customer service using #MachineLearning and #BigData http://\u2026
+id: 569299347994644482, text: RT @intelligentHQ: RT @ciscoioe 75% of Fortune500 companies have ability to mine #bigdata #InternetOfEverything http://t.co/rOHJQB10gM http\u2026
+id: 569299475803578368, text: Using #Cloud and #BigData to #Augment Your Sales Numbers http://t.co/n4JZwJOeCQ
+id: 569299476822790144, text: Rich, famous and big on twitter: The data impact of celebrity social media profiles http://t.co/tDIHa7WtLB #BigData
+id: 569299619701776384, text: RT @RebellionAI: Preact supports SaaS by providing tailored service to improve customer service using #MachineLearning and #BigData http://\u2026
+id: 569299781559848960, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569299815865180160, text: RT @RebellionAI: Preact supports SaaS by providing tailored service to improve customer service using #MachineLearning and #BigData http://\u2026
+id: 569299860890869760, text: RT @RebellionAI: Preact supports SaaS by providing tailored service to improve customer service using #MachineLearning and #BigData http://\u2026
+id: 569299861981433857, text: RT @vrstartup: The #Hadoop Ecosystem, Visualized in Datameer http://t.co/bvTOWgXUnz #bigdata #analytics http://t.co/F3ufjXmLMY
+id: 569299864841879552, text: RT @intelligentHQ: RT @ciscoioe 75% of Fortune500 companies have ability to mine #bigdata #InternetOfEverything http://t.co/rOHJQB10gM http\u2026
+id: 569299878787944448, text: RT @xciteandempower: Technology Is Changing #Business #Decision Making http://t.co/tTC7nFA1dq &gt;@TechReview #BigData #Analytics #Datascience
+id: 569299922551332865, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569299962351087617, text: RT @DeanHristov: Fascinating growth, transport and density #BigData for #London #Delhi #Bogota #Tokyo http://t.co/86wSum2H7q | @guardiancit\u2026
+id: 569300097747566592, text: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569300124565938176, text: RT @CraigMilroy: Take note #teamgreen .. For now, #Spark looks like the future of #bigdata http://t.co/NltkIO5xGx via @gigaom #hadoop
+id: 569300201237811200, text: 5 Big Tools. Control costs:  reduce your cost of labor. http://t.co/ode0SdWovo  #bigdata #SMB #SaaS
+id: 569300327951929344, text: #Infographic How Big is #Bigdata http://t.co/LcfoLgM3lh http://t.co/XIOdgA5kaR
+id: 569300357664387072, text: RT @clearstring: 5 Big Tools. Control costs:  reduce your cost of labor. http://t.co/ode0SdWovo  #bigdata #SMB #SaaS
+id: 569300358478094336, text: RT @CraigMilroy: Take note #teamgreen .. For now, #Spark looks like the future of #bigdata http://t.co/NltkIO5xGx via @gigaom #hadoop
+id: 569300359270821888, text: RT @sehau_: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569300360126451713, text: RT @DeanHristov: Fascinating growth, transport and density #BigData for #London #Delhi #Bogota #Tokyo http://t.co/86wSum2H7q | @guardiancit\u2026
+id: 569300360902389760, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569300442880081920, text: Creating ... - http://t.co/eiMiowkqG6\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #technology
+id: 569300467945213952, text: RT @correctdesign: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569300501818265601, text: RT @intelligentHQ: RT @GregoryPings: @opatra #Nike Takes Digital Data and Social Media Marketing Seriously http://t.co/NgTNK4f4ME via @dini\u2026
+id: 569300571934597120, text: RT @marcusborba: The #BBBT @ClearStoryData podcast with @ScoAnderson @kumarSSR &amp; Andrew Yeung is available http://t.co/bIuVmeE4qV #DataInte\u2026
+id: 569300572794441728, text: Top tweets from @CRN #BigData Stars http://t.co/IXsLYnFi5v - top stories by SalesPredict
+id: 569300574195228672, text: RT @DnBUS: Share &amp; discuss all things related to #BigData\u2014join D&amp;B\u2019s Big Data Subgroup on #LinkedIn: http://t.co/630vDZ1na9 #DnBData
+id: 569300584639139840, text: Developers make first realtime extraction of a Toridion \u2018quantum compressed\u2019 file http://t.co/5l0bHEhweG   #BigData #Science
+id: 569300585188593664, text: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics
+id: 569300601265221632, text: #Millennials Approach to Handling #Money http://t.co/bGwP1sPB2s #FinTech #VC #bigdata #banking #payments #currency #startups #apps #mobile
+id: 569300622320795648, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569300629971214336, text: RT @IBMclientvoices: Movie buff? @USC Annenberg Lab uses IBM #BigInsights to analyze movies, award buzz in real-time http://t.co/kr4Gl1CFBZ\u2026
+id: 569300630172504066, text: #IBM has been trending 30min on the BIG DATA page http://t.co/wd44DLGJ3W #Tweetzup
+id: 569300631770411009, text: ZivvonD :@ctoddthompson-#IBM has been trending 30min on the BIG DATA page http://t.co/hwYRk9I0aB #Tweetzup
+id: 569300637088911360, text: RT @intelligentHQ: RT @GregoryPings: @opatra #Nike Takes Digital Data and Social Media Marketing Seriously http://t.co/NgTNK4f4ME via @dini\u2026
+id: 569300637764218882, text: RT @correctdesign: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569300638405943296, text: RT @vinceyue666: Creating ... - http://t.co/eiMiowkqG6\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #t\u2026
+id: 569300638913470464, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569300639928459264, text: RT @DeanHristov: Fascinating growth, transport and density #BigData for #London #Delhi #Bogota #Tokyo http://t.co/86wSum2H7q | @guardiancit\u2026
+id: 569300641039949824, text: RT @sehau_: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569300641706876928, text: RT @CraigMilroy: Take note #teamgreen .. For now, #Spark looks like the future of #bigdata http://t.co/NltkIO5xGx via @gigaom #hadoop
+id: 569300642789003264, text: RT @clearstring: 5 Big Tools. Control costs:  reduce your cost of labor. http://t.co/ode0SdWovo  #bigdata #SMB #SaaS
+id: 569300643313291265, text: RT @sehau_: #Infographic How Big is #Bigdata http://t.co/LcfoLgM3lh http://t.co/XIOdgA5kaR
+id: 569300671415115778, text: Evaluating the @MapR Vision: #BigData Architecture as a Product http://t.co/W4aZfn9oRQ via @forbes #hadoop #spark #mesos
+id: 569300687135350784, text: Of course SMALL companies cause BIG data!!  4 Misconceptions About #BigData You Can Stop Believing http://t.co/mEXduyuOkz
+id: 569300727199346688, text: RT @vinceyue666: Creating ... - http://t.co/eiMiowkqG6\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #t\u2026
+id: 569300747554308096, text: Do you know who is tracking your spending? The answer may shock you: http://t.co/8CS6h5LlqY @RotterWrites #BigData http://t.co/H6ZOyzprgs
+id: 569300767615668225, text: #nlproc #textmining is the key to making the most of #bigdata in #cancercare. http://t.co/yoNsXsUVB4 #CancerResearch #cancersupport
+id: 569300775031189504, text: RT AdvanceVentures: #Millennials Approach to Handling #Money http://t.co/bgggYKgvIk #FinTech #VC #bigdata #banking #payments #currency #s\u2026
+id: 569300798640934914, text: Become an #AWS Certified #Developer with our online course. 87% Off, Only $19USD. http://t.co/TDfA8SHtkU #ci #ruby #nodejs #devops #bigdata
+id: 569300838088364032, text: Cyber Security at Work as at Home http://t.co/n23V6nHP0j #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Cloud
+id: 569300860431437825, text: Exploring The Cutting-Edge: Predictive Marketing Analytics http://t.co/CWSwaUpRNP #bigdata
+id: 569301018044968961, text: RT @sas_portugal: SAS Federation Server webinar. Desafios, benef\u00edcios, casos de estudo e demo http://t.co/PEapuGTsTa #bigdata
+id: 569301074584203264, text: RT @InfobldrPortugs: Os cientistas da NASA dizem que os #CIOs ser realistaz com as suas expectativas com o #bigdata\nhttp://t.co/mICNMYb8ni \u2026
+id: 569301087456518144, text: RT @CraigMilroy: Evaluating the @MapR Vision: #BigData Architecture as a Product http://t.co/W4aZfn9oRQ via @forbes #hadoop #spark #mesos
+id: 569301088228261890, text: RT @CraigMilroy: Take note #teamgreen .. For now, #Spark looks like the future of #bigdata http://t.co/NltkIO5xGx via @gigaom #hadoop
+id: 569301089016786944, text: RT @bigdataconf: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics
+id: 569301105265528832, text: RT @Shyam17: Spark Just Passed Hadoop in Popularity on the Web\u2013Here\u2019s Why.#Spark,#BigData, #Hadoop,#MapReduce,#Cloud.#DataStorage.http://t.\u2026
+id: 569301159145574400, text: RT @capgeminiBR: O portal @novarejo destacou o estudo sobre #bigdata produzido pela @capgeminiconsul http://t.co/JE5Ggr7JsF
+id: 569301178225438721, text: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Clo\u2026
+id: 569301188023181313, text: RT @OnDemandMetrics: This tweet was posted via TwitterMail - Twitter Counter - http://t.co/kgwUHVy6K8 #analytics #bigdata
+id: 569301192934887424, text: RT vinceyue666: Creating ... - http://t.co/OucQhH285n\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #\u2026
+id: 569301244344283137, text: RT @RemarBarquilla: \"@michaelgoldrich: #BigData Impact &amp;  importance it holds in the future \u00a0 #infographic http://t.co/67Gg6DjDjn\" http://t\u2026
+id: 569301304859717632, text: RT @BuiltrFEED: Forward thinking in AEC  http://t.co/FSOzItqxyz #AECtech #BIM #BigData #cloud #architecture #engineering #construction #iam\u2026
+id: 569301318197751809, text: RT @ibmbrasil: O #BigData est\u00e1 mais forte que nunca. Quer saber por qu\u00ea? A #mobilidade e o 4G t\u00eam as respostas:http://t.co/aWErZDG6nZ
+id: 569301357968150528, text: RT @RemarBarquilla: \"@michaelgoldrich: #BigData Impact &amp;  importance it holds in the future \u00a0 #infographic http://t.co/67Gg6DjDjn\" http://t\u2026
+id: 569301365140271105, text: RT @fintechna: RT simulocity: Some hard facts and statistics about the growth of big data. http://t.co/BBDy6vZxzH; #bigdata #fintech #banki\u2026
+id: 569301388817080320, text: RT @tuttyptr39: \u201c@simonlporter: Cloud Interesting Big Data Facts http://t.co/yURNQmweiM #cloud #bigdata\u201d @tuttyptr39 #IBM
+id: 569301432416890880, text: RT @vinceyue666: App signing ... - http://t.co/MrNrxrhvTj\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms\u2026
+id: 569301459302375424, text: RT @maxxpowerss8: RT vinceyue666: Sci-Industrial ... - http://t.co/9NIoQRIchb\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #f\u2026
+id: 569301485852340224, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569301557130498049, text: Microsoft Adopts ISO/IEC 27018 For Personal Data, Privacy Protection In Public ... - Tech Times http://t.co/iUlm1UOXSl #bigdata
+id: 569301587178475520, text: Bringing Big Data to the Fight Against Benefits Fraud - New York Times http://t.co/NSKdMhaDFD #bigdata #bigdata
+id: 569301591523758080, text: What does America need right now? Data science! (says, er, the first Chief ... - The Register http://t.co/80EuqwWHbr #bigdata
+id: 569301594623385600, text: UNICEF, Airtel team up in Africa to widen access to free health, data... - ITworld http://t.co/u0KTOxCCg8 #bigdata #bigdata
+id: 569301600075964417, text: Gigaom Research webinar: Embedded BI: Delivering frictionless data analytics - Gigaom http://t.co/JQdY3EX8hb #bigdata
+id: 569301607759921152, text: #BigData Impact &amp;  importance it holds in the future \u00a0 #infographic http://t.co/XlxohCeIqJ\" http://t.co/VzK1i68ZxG
+id: 569301730292146177, text: RT @mlloper: UNL professor develops #bigdata tool for bridge inspections: http://t.co/NTXr7dPVnM via @journalstarnews
+id: 569301739670781954, text: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics via bigdataconf
+id: 569301741092646912, text: Cyber Security at Work as at Home http://t.co/PrVTFf9GT8 #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Clo\u2026
+id: 569301772205998080, text: RT @fintechna: RT simulocity: Some hard facts and statistics about the growth of big data. http://t.co/BBDy6vZxzH; #bigdata #fintech #banki\u2026
+id: 569301808708870145, text: RT @bumgarls: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/7QRfBTaIeg
+id: 569301813020594177, text: RT @DiegoKuonen: MT @tonyojeda3: Understand Problem Using Exploratory Data Analysis http://t.co/WQIzBVirsg #EDA #DataScience #BigData http:\u2026
+id: 569301848047251456, text: RT @bumgarls: What I mean when I talk about live chat integration into threaded discussions #socialmedia #bigdata #UX http://t.co/os0QZCk6A3
+id: 569301857547513856, text: Find out more abt #HPHaven Predictive Analytics, a new offering from #HP: http://t.co/GpQIXpD5EO #HPVertica #bigdata [news]
+id: 569301883107479553, text: RT @capillarytech: Looking for strategies to improve your customer experience by using your #marketing #bigdata? Free Webinar: http://t.co/\u2026
+id: 569301907963043840, text: RT @sehau_: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569301914073960448, text: RT @IBMclientvoices: Movie buff? @USC Annenberg Lab uses IBM #BigInsights to analyze movies, award buzz in real-time http://t.co/kr4Gl1CFBZ\u2026
+id: 569302021897129984, text: Good read - \u201c@awscloud: New post on AWS #BigData Blog! \"Snakes in the Stream\" http://t.co/BXLlbAjQUO http://t.co/jLjYy2fSdY\u201d
+id: 569302243599622144, text: Sick of looking at the same old  #spreadsheets? Ask us how #infographics and #DataVisualization can make #bigdata easier to digest.
+id: 569302380312862720, text: RT @iotattack: Cyber Security at Work as at Home http://t.co/PrVTFf9GT8 #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognit\u2026
+id: 569302381311238144, text: RT @atomsoffice: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecogn\u2026
+id: 569302382137487360, text: RT @AnRcloudSoft: Cyber Security at Work as at Home http://t.co/n23V6nHP0j #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecog\u2026
+id: 569302384595345410, text: RT @AnRcloudSoft: Cyber Security at Work as at Home http://t.co/n23V6nHP0j #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecog\u2026
+id: 569302503956701184, text: New Job Alert: BIG DATA DEVELOPER -Hadoop, Cassandra, Cloudera, Talend, Hive, Netezza at Sun ... http://t.co/oDWfMHYc2I #bigdata #hadoop
+id: 569302825634824192, text: RT @BigDataClub: Bringing Big Data to the Fight Against Benefits Fraud - New York Times http://t.co/NSKdMhaDFD #bigdata #bigdata
+id: 569302827505299457, text: RT @kdnuggets: Top Names in #BigData - Part 2, including @Hmason, Tom Davenport, Tom Reilly, @KDnuggets, @AndyHPalmer, Jeff Bezos http://t.\u2026
+id: 569302827786493952, text: What I mean when I talk about live chat integration into threaded discussions #socialmedia #bigdata #UX http://t.co/oJxSpUH111
+id: 569302832714813440, text: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569302844240748544, text: RT correctdesign: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569302865581363203, text: RT bumgarls: Public searchable live chat integrated into threaded discussions would be so cool #bigdata #UX\u2026 http://t.co/1Z1wTz5SA5
+id: 569302867326177281, text: RT bumgarls: What I mean when I talk about live chat integration into threaded discussions #socialmedia #bigdata #UX http://t.co/oJxSpUH111
+id: 569302938570629120, text: Most #Startups are losing the interest in growing their #socialmedia structure after boosting their #business #SEO #growthhacking #bigdata
+id: 569303011828359168, text: My vision for the #UX of a webpage post when you wrote a post #blogging #entrepreneur #startup #bigdata http://t.co/qzYG02GflI
+id: 569303024012791808, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569303059668602880, text: RT @clearstring: 5 Big Tools. Control costs:  reduce your cost of labor. http://t.co/ode0SdWovo  #bigdata #SMB #SaaS
+id: 569303064122949632, text: RT @VishalTx: Microsoft Adopts ISO/IEC 27018 For Personal Data, Privacy Protection In Public ... - Tech Times http://t.co/iUlm1UOXSl #bigda\u2026
+id: 569303069512630272, text: RT @hishamsafadi: Most #Startups are losing the interest in growing their #socialmedia structure after boosting their #business #SEO #growt\u2026
+id: 569303157727219712, text: RT @Adbusters: I can\u2019t eat without instagramming my food. I can\u2019t shit without playing Candy Crush. #bigdata https://t.co/M8jLk132Ze http:/\u2026
+id: 569303164266156032, text: RT @HPSoftware: 2015 is the yr that #BigData must come together w/ #cloud &amp; #DevOps. Learn more: http://t.co/Xk0QHkWhtk #HP http://t.co/WLT\u2026
+id: 569303213649862656, text: Official Unicef ... - http://t.co/54RCkEH5DR\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #technology
+id: 569303320671744000, text: RT @sehau_: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569303347674656768, text: RT @AngelaZutavern: Faster #datascience --&gt; placing the data near the computation https://t.co/NksnrJ00BW #bigdata http://t.co/GyhADqHSk6
+id: 569303435507589120, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569303456864964608, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569303533092253696, text: RT @Consalud_es: #SiliconValley hace del m\u00f3vil un laboratorio de salud http://t.co/E4SWz4fZRA @PwC_Spain @applesfera #BigData
+id: 569303556915904513, text: RT @vinceyue666: Official Unicef ... - http://t.co/54RCkEH5DR\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algori\u2026
+id: 569303557620572161, text: RT @maxxpowerss8: RT vinceyue666: Creating ... - http://t.co/OucQhH285n\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #freelan\u2026
+id: 569303559755456512, text: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569303568110526464, text: Top story from @CRN #BigData Stars Unmetric Event Pulse - Live Real Time Market\u2026 http://t.co/Bcd6FEy4WE, see more http://t.co/fsgVFwFiEw
+id: 569303637693849600, text: RT @Consalud_es: #SiliconValley hace del m\u00f3vil un laboratorio de salud http://t.co/E4SWz4fZRA @PwC_Spain @applesfera #BigData
+id: 569303641258987521, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569303644899663873, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569303655746117632, text: RT @sehau_: Being a Data Scientist in 2015 #Infographic http://t.co/6RX71wyJgI #BigData #DataScience @GilPress http://t.co/s4DLmkVu3l\"
+id: 569303662121463808, text: RT @Adbusters: I can\u2019t eat without instagramming my food. I can\u2019t shit without playing Candy Crush. #bigdata https://t.co/M8jLk132Ze http:/\u2026
+id: 569303696095481856, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569303749262495744, text: RT @tonyojeda3: Recommended Reading: Programming Collective Intelligence http://t.co/QDHgd0dz3c #DataScience #BigData #MachineLearning #Pyt\u2026
+id: 569303754476023808, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569303781738999808, text: RT @AngelaZutavern: Faster #datascience --&gt; placing the data near the computation https://t.co/NksnrJ00BW #bigdata http://t.co/GyhADqHSk6
+id: 569303822042062848, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569303923426791426, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569303937771294721, text: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Clo\u2026
+id: 569303962211504128, text: RT iotattack: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecogni\u2026
+id: 569303964228960256, text: RT atomsoffice: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecog\u2026
+id: 569303966057701376, text: RT AnRcloudSoft: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceReco\u2026
+id: 569303977793351681, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569304145007644673, text: @PlaceILive - #opendata #bigdata - Neighborhood #data from select cities around the globe - thanks for following!
+id: 569304172220325889, text: Live chat #UX specifics integrated into threaded discussions #socialmedia #startup #entrepreneur #bigdata http://t.co/jr96YehPc6
+id: 569304207662186497, text: RT @Linguamatics: #nlproc #textmining is the key to making the most of #bigdata in #cancercare. http://t.co/yoNsXsUVB4 #CancerResearch #can\u2026
+id: 569304221075386368, text: A Beginners Guide to Hadoop (great summary) - http://t.co/oleRe32qmP #bigdata
+id: 569304248695046144, text: RT @hubbardjordan: @PlaceILive - #opendata #bigdata - Neighborhood #data from select cities around the globe - thanks for following!
+id: 569304250486026241, text: RT @atomsoffice: RT AnRcloudSoft: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #Sma\u2026
+id: 569304251274534912, text: RT @atomsoffice: RT atomsoffice: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #Smar\u2026
+id: 569304252021116928, text: RT @atomsoffice: RT iotattack: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartT\u2026
+id: 569304258253852672, text: RT @iotattack: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics via \u2026
+id: 569304259034005504, text: RT @bigdataconf: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics
+id: 569304364105519104, text: Most #Startups are losing the interest in growing their #socialmedia structure after boosting their #business #SEO #growthhacking #bigdata
+id: 569304373576077313, text: RT @BigDataJobsCom: New Job Alert: BIG DATA DEVELOPER -Hadoop, Cassandra, Cloudera, Talend, Hive, Netezza at Sun ... http://t.co/oDWfMHYc2I\u2026
+id: 569304417113124865, text: RT @atomsoffice: RT iotattack: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartT\u2026
+id: 569304417058443264, text: Six Predictions About Big Data and Marketing in 2015 - http://t.co/KMXBFu251y #bigdata #marketing
+id: 569304435802963968, text: RT @hubbardjordan: @PlaceILive - #opendata #bigdata - Neighborhood #data from select cities around the globe - thanks for following!
+id: 569304486709215233, text: RT @bobehayes: Being a Data Scientist in 2015 (#Infographic) http://t.co/9lf4reKOCm #BigData #datascience HT @GilPress http://t.co/mV5zrzjn\u2026
+id: 569304534918553600, text: RT @seb66: In other words, Under Armour just bought 100 million users worth of fitness data #mhealth #bigdata
+id: 569304549657223168, text: Will Google enter cloud-based data centre market?  http://t.co/cCca7Frv1d #datacentre, #datacenter , #blog, #bigdata,
+id: 569304936493805568, text: RT @MDMGeek: When Big Data Projects Go Wrong http://t.co/5XPhVFfzWB via @forbes #BigData #DataScience
+id: 569305241901858816, text: RT @RebellionAI: Preact supports SaaS by providing tailored service to improve customer service using #MachineLearning and #BigData http://\u2026
+id: 569305405853212673, text: RT @pivotal: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569305464376328192, text: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Clo\u2026
+id: 569305468444786688, text: A procura por solu\u00e7\u00f5es anal\u00edticas em nuvem crescer\u00e1 46% at\u00e9 2020 http://t.co/bxDI1fZOAB #BigData #Analytics #Cloud http://t.co/j0Rd26zvbm
+id: 569305493832802304, text: - http://t.co/qPXNKf6z3P\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms ... http://t.co/CZ1XpaOwM6
+id: 569305554943922177, text: RT @atomsoffice: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecogn\u2026
+id: 569305556462243840, text: RT @atomsoffice: Cyber Security at Work as at Home http://t.co/SCAOtqkeAQ #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecogn\u2026
+id: 569305557200449536, text: RT @AnRcloudSoft: Cyber Security at Work as at Home http://t.co/n23V6nHP0j #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecog\u2026
+id: 569305615291564032, text: #BigData shows information travels. In Europe, countries are divided into eight #clusters. \nhttp://t.co/z7AvaA9oGt http://t.co/b2wzyOWaAG
+id: 569305803318038529, text: RT @pivotal: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569306063457161217, text: RT @VishalTx: Microsoft Adopts ISO/IEC 27018 For Personal Data, Privacy Protection In Public ... - Tech Times http://t.co/iUlm1UOXSl #bigda\u2026
+id: 569306064199553027, text: RT @cognizeus: What does America need right now? Data science! (says, er, the first Chief ... - The Register http://t.co/80EuqwWHbr #bigdata
+id: 569306098597031936, text: RT @VishalTx: Microsoft Adopts ISO/IEC 27018 For Personal Data, Privacy Protection In Public ... - Tech Times http://t.co/iUlm1UOXSl #bigda\u2026
+id: 569306263718400000, text: RT @minnowtrapmedia: Sick of looking at the same old  #spreadsheets? Ask us how #infographics and #DataVisualization can make #bigdata easi\u2026
+id: 569306369142050816, text: \u2018#Heat #map\u2019 #captures #massive #Chinese #NewYear #migration http://t.co/58QkGDU1u3 #dataviz #bigdata
+id: 569306377975234560, text: RT @ensiamedia: Could #bigdata tip the balance in the fight to save wild tigers? http://t.co/WBSToY7wVd @WWF @mnzoo @rogerreal http://t.co/\u2026
+id: 569306387496308736, text: RT @minnowtrapmedia: Sick of looking at the same old  #spreadsheets? Ask us how #infographics and #DataVisualization can make #bigdata easi\u2026
+id: 569306393611776000, text: RT @vinceyue666: - http://t.co/qPXNKf6z3P\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms ... http://t.co\u2026
+id: 569306491934547968, text: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx #bigdata
+id: 569306513279471617, text: Legal Issues to Consider Before Starting #BigData Projects by @judy_selby on @LinkedIn https://t.co/YgBdnaLGDh @Atty_Ben_Barnes
+id: 569306595454287872, text: RT @DataStaxCareers: DataStax: DSE Software Engineer in Test : (Perfor... (#USAJobs) http://t.co/ae0kS3F4jM #Engineering #BigData #noSQL #D\u2026
+id: 569306665348161537, text: The variety of #BigData is as important as volume in collecting, storing, and analyzing it | #BigDataSV http://t.co/bMzr1VsA2R #IoT
+id: 569306668108013569, text: RT @benakiva: The variety of #BigData is as important as volume in collecting, storing, and analyzing it | #BigDataSV http://t.co/bMzr1VsA2\u2026
+id: 569306669215121408, text: RT @benakiva: The variety of #BigData is as important as volume in collecting, storing, and analyzing it | #BigDataSV http://t.co/bMzr1VsA2\u2026
+id: 569306670800580608, text: RT @APIShift: By 2020 amount of data created &amp; copied per yr-&gt;reach 44 trillion gigabytes @thomaspower #IoT #bigdata #API #M2M #IoE http://\u2026
+id: 569306687477133312, text: IoT presents opportunities in Central, Eastern European healthcare market http://t.co/4aAHMaoZ8m #bigdata
+id: 569306834244374528, text: My vision for the #UX of a webpage post when you wrote a post #blogging #entrepreneur #startup #bigdata http://t.co/l6zYbSKcI0
+id: 569306846286245888, text: Live chat #UX specifics integrated into threaded discussions #socialmedia #startup #entrepreneur #bigdata http://t.co/UiQX2PlKS9
+id: 569306899885236224, text: Seven Potential Potholes To Avoid On The Way To #BigData Success http://t.co/bNGu8NLEbl #bigdata
+id: 569306941182226432, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569306958106374144, text: How and Where to Find and Download R https://t.co/qNGGpGFIIY via @ctovision #bigdata
+id: 569307007154388993, text: \"This #VC firm relies on #Hadoop to check for #startup success\" http://t.co/GqTij7EpAV #entrepreneur #bigdata  #technology #funding,
+id: 569307019422773248, text: RT @yochum: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx\u2026
+id: 569307178261020672, text: RT @DistrictDataLab: 16 analytic disciplines compared to data science http://t.co/NWe1Vft83s #DataScience #BigData
+id: 569307276814786560, text: Time Analytics on #BigData http://t.co/i55k4T336h #Storm #DataAnalytics
+id: 569307339305721858, text: How and Where to Find and Download R https://t.co/izg6ha5ubS via ctovision #bigdata
+id: 569307491240177666, text: RT @Microsoft_Gov: Solving urban challenges with #bigdata: http://t.co/JKndvhTc1Z RT @OpenAtMicrosoft #ODD15 #opendata
+id: 569307566695690243, text: RT @ibmbrasil: O #BigData est\u00e1 mais forte que nunca. Quer saber por qu\u00ea? A #mobilidade e o 4G t\u00eam as respostas:http://t.co/aWErZDG6nZ
+id: 569307596894674944, text: RT @capgeminiBR: O portal @novarejo destacou o estudo sobre #bigdata produzido pela @capgeminiconsul http://t.co/JE5Ggr7JsF
+id: 569307650401427456, text: RT @InfobldrPortugs: Os cientistas da NASA dizem que os #CIOs ser realistaz com as suas expectativas com o #bigdata\nhttp://t.co/mICNMYb8ni \u2026
+id: 569307689869844480, text: RT @yochum: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx\u2026
+id: 569307752079732736, text: RT @simulocity: Some hard facts and statistics about the growth of big data. https://t.co/zPOJDe5onT #bigdata #fintech #banking #businessin\u2026
+id: 569307855645507585, text: RT @sas_portugal: SAS Federation Server webinar. Desafios, benef\u00edcios, casos de estudo e demo http://t.co/PEapuGTsTa #bigdata
+id: 569307866856873984, text: RT @spreneurfunding: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/GinVGBQZKk #bigdata #java #iot #sa\u2026
+id: 569307882803437568, text: RT @yochum: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx\u2026
+id: 569307967759085568, text: RT @BigDataJobsCom: New Job Alert: BIG DATA DEVELOPER -Hadoop, Cassandra, Cloudera, Talend, Hive, Netezza at Sun ... http://t.co/oDWfMHYc2I\u2026
+id: 569308003939319809, text: RT @bobgourley: How and Where to Find and Download R https://t.co/qNGGpGFIIY via @ctovision #bigdata
+id: 569308011438538753, text: RT @srakesh: Good read - \u201c@awscloud: New post on AWS #BigData Blog! \"Snakes in the Stream\" http://t.co/BXLlbAjQUO http://t.co/jLjYy2fSdY\u201d
+id: 569308032309579776, text: retweetjava: RT spreneurfunding: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/mc5vfEcTvv #bigdata \u2026
+id: 569308038210785280, text: The Growing Emphasis on #BigData for Contingent Workforce Programs http://t.co/n0vsyJMpbg
+id: 569308063200448512, text: RT @HPSoftware: Find out more abt #HPHaven Predictive Analytics, a new offering from #HP: http://t.co/GpQIXpD5EO #HPVertica #bigdata [news]
+id: 569308119001649154, text: RT @yourstaffingbiz: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/IsHTNt0jOl #bigdata #java #iot #sa\u2026
+id: 569308123220963328, text: RT @SuckerIO: Gigaom Research webinar: Embedded BI: Delivering frictionless data analytics - Gigaom http://t.co/JQdY3EX8hb #bigdata
+id: 569308145857613824, text: RT @cognizeus: What does America need right now? Data science! (says, er, the first Chief ... - The Register http://t.co/80EuqwWHbr #bigdata
+id: 569308168326479872, text: RT @maxxpowerss8: RT vinceyue666: Creating ... - http://t.co/OucQhH285n\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #freelan\u2026
+id: 569308179177312256, text: RT @AnaPauSanchx: Data here, data there, data everywhere... The #BigData challenge to get more challenging #SmartData @gregorydare http://t\u2026
+id: 569308185456214016, text: RT @HPSoftware: Find out more abt #HPHaven Predictive Analytics, a new offering from #HP: http://t.co/GpQIXpD5EO #HPVertica #bigdata [news]
+id: 569308186257309697, text: RT @renndez: The Growing Emphasis on #BigData for Contingent Workforce Programs http://t.co/n0vsyJMpbg
+id: 569308187301707777, text: RT @lucatamb22: retweetjava: RT spreneurfunding: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/mc5vfE\u2026
+id: 569308188090232832, text: RT @srakesh: Good read - \u201c@awscloud: New post on AWS #BigData Blog! \"Snakes in the Stream\" http://t.co/BXLlbAjQUO http://t.co/jLjYy2fSdY\u201d
+id: 569308188979421184, text: RT @bobgourley: How and Where to Find and Download R https://t.co/qNGGpGFIIY via @ctovision #bigdata
+id: 569308202849980417, text: RT @yochum: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx\u2026
+id: 569308207656468481, text: RT @Torquer: Exploring The Cutting-Edge: Predictive Marketing Analytics http://t.co/CWSwaUpRNP #bigdata
+id: 569308236324741120, text: Built on the technology pillars of #mobility, #cloudcomputing, #bigdata and #analytics, and social business rise of the #IoT
+id: 569308255115210754, text: RT @BigDataBRA: A procura por solu\u00e7\u00f5es anal\u00edticas em nuvem crescer\u00e1 46% at\u00e9 2020 http://t.co/bxDI1fZOAB #BigData #Analytics #Cloud http://t\u2026
+id: 569308259611320320, text: RT @acloudguru: Become an #AWS Certified #Developer with our online course. 87% Off, Only $19USD. http://t.co/TDfA8SHtkU #ci #ruby #nodejs \u2026
+id: 569308259707961344, text: RT @benakiva: Time Analytics on #BigData http://t.co/i55k4T336h #Storm #DataAnalytics
+id: 569308294671519744, text: RT @fintechna: RT AdvanceVentures: #Millennials Approach to Handling #Money http://t.co/bgggYKgvIk #FinTech #VC #bigdata #banking #payments\u2026
+id: 569308334806822912, text: RT @Linguamatics: #nlproc #textmining is the key to making the most of #bigdata in #cancercare. http://t.co/yoNsXsUVB4 #CancerResearch #can\u2026
+id: 569308368428343297, text: RT @judy_selby: Legal Issues to Consider Before Starting #BigData Projects by @judy_selby on @LinkedIn https://t.co/YgBdnaLGDh @Atty_Ben_Ba\u2026
+id: 569308371016404992, text: RT @YourDeeWilliams: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/uxunY6oZR2 #bigdata #java #iot #sa\u2026
+id: 569308372513755136, text: What Obama has to say about data-science and big data. #bigdata \nhttps://t.co/dQP9ZakAnI
+id: 569308373285412864, text: RT @TheSocialQuant: This #BASE jump video sums up my #FactBeatFear research. It also explains my Brain #BigData #Analytics PASSION..;-) htt\u2026
+id: 569308394839941121, text: RT @CreditSesame: Do you know who is tracking your spending? The answer may shock you: http://t.co/8CS6h5LlqY @RotterWrites #BigData http:/\u2026
+id: 569308438204801024, text: RT @softwareguru1: Developers make first realtime extraction of a Toridion \u2018quantum compressed\u2019 file http://t.co/5l0bHEhweG   #BigData #Sci\u2026
+id: 569308450578165760, text: Linking Diplomacy With Collaborative Mapping During Crises http://t.co/C15MeewmyM via @sharethis #opendata #bigdata
+id: 569308554693181440, text: RT @vinceyue666: Creating ... - http://t.co/eiMiowkqG6\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #t\u2026
+id: 569308578642825217, text: RT @simulocity: Some hard facts and statistics about the growth of big data. https://t.co/zPOJDe5onT #bigdata #fintech #banking #businessin\u2026
+id: 569308594094481408, text: RT @TungstenBigData: Rich, famous and big on twitter: The data impact of celebrity social media profiles http://t.co/tDIHa7WtLB #BigData
+id: 569308623714852864, text: RT @staffingstartup: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/VN1vcnk63d #bigdata #java #iot #sa\u2026
+id: 569308654240804864, text: RT @Things_Internet: #IoT What's that thing? Whatever it is, it needs security #tech http://t.co/z4NgHfpcE8 #bigdata
+id: 569308690039222273, text: RT @SShivagana: Separate the hype from the facts. Online webinars explaining the truth behind #BigData and #DataAnalytics coming soon from \u2026
+id: 569308742941954048, text: RT @datacentretech: Will Google enter cloud-based data centre market?  http://t.co/cCca7Frv1d #datacentre, #datacenter , #blog, #bigdata,
+id: 569308777884684288, text: RT @SpencerBlanch: Six Predictions About Big Data and Marketing in 2015 - http://t.co/KMXBFu251y #bigdata #marketing
+id: 569308819643355136, text: RT @SShivagana: Separate the hype from the facts. Online webinars explaining the truth behind #BigData and #DataAnalytics coming soon from \u2026
+id: 569308820515753984, text: RT @Things_Internet: #IoT What's that thing? Whatever it is, it needs security #tech http://t.co/z4NgHfpcE8 #bigdata
+id: 569308821295898624, text: RT @staffingstartup: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/VN1vcnk63d #bigdata #java #iot #sa\u2026
+id: 569308822076071936, text: RT @TungstenBigData: Rich, famous and big on twitter: The data impact of celebrity social media profiles http://t.co/tDIHa7WtLB #BigData
+id: 569308822810038272, text: RT @michaelgoldrich: Infographic How Big is #Bigdata http://t.co/WePPY5ViH3 http://t.co/jRu5cbg5I3
+id: 569308833975128064, text: RT @bumgarls: Live chat #UX specifics integrated into threaded discussions #socialmedia #startup #entrepreneur #bigdata http://t.co/jr96Yeh\u2026
+id: 569308843550896128, text: RT @fintechna: RT AdvanceVentures: #Millennials Approach to Handling #Money http://t.co/bgggYKgvIk #FinTech #VC #bigdata #banking #payments\u2026
+id: 569308876249681921, text: RT @staffingpreneur: Checkout our checklist for starting a staffing agency! WATCH THE VIDEO: http://t.co/dRilK6CfDR #bigdata #java #iot #sa\u2026
+id: 569308885686693888, text: RT @mikepluta: Top story from @CRN #BigData Stars Unmetric Event Pulse - Live Real Time Market\u2026 http://t.co/Bcd6FEy4WE, see more http://t.c\u2026
+id: 569308916594581504, text: RT @pivotal: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569308960106242048, text: RT @vinceyue666: Official Unicef ... - http://t.co/54RCkEH5DR\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algori\u2026
+id: 569308992058617856, text: It\u2019s #OpenData Day! But what is \u2018open data\u2019 and why should we care? http://t.co/NVkAocpMYl Good question. #bigdata
+id: 569309003710210048, text: RT @bumgarls: My vision for the #UX of a webpage post when you wrote a post #blogging #entrepreneur #startup #bigdata http://t.co/qzYG02GflI
+id: 569309025076060162, text: Number Crunching The Academy Awards http://t.co/dc3qH03VEZ #bigdata
+id: 569309042859843584, text: RT @alessandra_russ: Now entering the universe of #bigdata with @derrickcogburn: look forward to learning more about #textmining #ISABigDat\u2026
+id: 569309090062712833, text: Salesforce Wave Analytics Tool Makes The Move To Mobile | http://t.co/NLtTImJhyI  #BigData
+id: 569309114431483904, text: Connecting With Consumers Through #BigData and #SocialMedia http://t.co/MqjH59EipR
+id: 569309182761050113, text: RT @HappyAnalytics: #BigData shows information travels. In Europe, countries are divided into eight #clusters. \nhttp://t.co/z7AvaA9oGt http\u2026
+id: 569309203229073409, text: RT @pivotal: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569309298842574849, text: #OpenData Day \u2013 Hackathons are the spark, but citizens are the slow burning flame http://t.co/Ffe83G5Aie #bigdata
+id: 569309447643893760, text: RT vinceyue666: Official Unicef ... - http://t.co/6YPXtebKkV\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algor\u2026
+id: 569309561661878272, text: RT @BastiaanSjardin: What Obama has to say about data-science and big data. #bigdata \nhttps://t.co/dQP9ZakAnI
+id: 569309699411030017, text: RT @Datafloq: Walt Disney\ufffds Magical Touch Becomes Even Better With Big Data http://t.co/vY7if1OxIj #BigData
+id: 569309707141316609, text: #BigData adoption is a year-long journey for the #enterprise: http://t.co/WE9xto9yfh
+id: 569309729069010944, text: RT @AMDServer: Learn how @AMD\u2019s SeaMicro helped @Jagex tackle the challenge of #bigdata in our latest video. http://t.co/S99nPDjJHi
+id: 569309849298837504, text: Dyno App - oDesk - http://t.co/MXTx8m8OYw\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #technology
+id: 569309861516845056, text: Data science can't be point and click http://t.co/CT9Hyj2SnH #DataScience #BigData
+id: 569309864544960512, text: RT @yochum: This VC firm relies on Hadoop to check for startup success: SAN JOSE, Calif. \u2014 Some venture capital f... http://t.co/64Frvg9TDx\u2026
+id: 569309866726182912, text: RT @nisamalli: Badass lady Lauren Reid using #bigdata to track unreported sexual assaults http://t.co/sYiwZ0y906 #beenrapedneverreported #p\u2026
+id: 569309879074234368, text: RT @IBMbigdata: While businesses have raced to use #bigdata, #nonprofits are just getting started. Read more on @BizTechMagazine: http://t.\u2026
+id: 569309896690294784, text: RT @GetdashDB: Great article from @infoworld on how to crunch #bigdata with R and #dashDB: http://t.co/YZUrSDDcjn http://t.co/zDCC9kQWfQ
+id: 569309908014899200, text: Using #bigdata and searchable live chat integration into threaded discussions to challenge eBay could\u2026 http://t.co/qk2GuvGdZr
+id: 569309933885378560, text: Is the EU\u2019s \u2018big data\u2019 effective in fighting terror? http://t.co/z9viDXnEoC #BigData
+id: 569309972338753536, text: RT @AlexanderD_Beck: What is the difference between #datascience and Data Engineering http://t.co/VOgSwBe23F #bigdata #hadoop
+id: 569309987819937792, text: RT @simulocity: Some hard facts and statistics about the growth of big data. https://t.co/zPOJDe5onT #bigdata #fintech #banking #businessin\u2026
+id: 569310083823374336, text: RT@softwareguru1: Developers make first realtime extraction of a Toridion \u2018quantum compressed\u2019 file http://t.co/ne9Shn1Nqj #BigData #Science
+id: 569310104492904450, text: \"Big Data in little city: In Palo Alto, new digital tools aim to bridge the ... - Palo Alto Online\" http://t.co/a7AgHZscZ7 #BigData #NoSQL
+id: 569310418256191488, text: RT @RemarBarquilla: \"@michaelgoldrich: #BigData Impact &amp;  importance it holds in the future \u00a0 #infographic http://t.co/67Gg6DjDjn\" http://t\u2026
+id: 569310441278607360, text: RT @pivotal: A round up of newsworthy articles on #OpenSource, #PaaS, #BigData and more http://t.co/a1gnUyMNAA
+id: 569310543804276736, text: #BigData adoption is a year-long journey for the enterprise via @luisdans https://t.co/2I1FkWQuZH
+id: 569310587571843073, text: RT @GetdashDB: Great article from @infoworld on how to crunch #bigdata with R and #dashDB: http://t.co/YZUrSDDcjn http://t.co/zDCC9kQWfQ
+id: 569310666303148032, text: RT @GEsoftware: When you speak the language of #BigData &amp; apps, you'll find that machines have quite a voice. http://t.co/LXI6MqXmyp http:/\u2026
+id: 569310727472746496, text: Oscar-nominated films perfectly explained in graphs #oscars #movies #analytics #bigdata http://t.co/FBeKjgpgW1
+id: 569310776386842624, text: RT @AlexanderD_Beck: What is the difference between #datascience and Data Engineering http://t.co/VOgSwBe23F #bigdata #hadoop
+id: 569310779968782336, text: RT @BigDataJobsCom: New Job Alert: BIG DATA DEVELOPER -Hadoop, Cassandra, Cloudera, Talend, Hive, Netezza at Sun ... http://t.co/oDWfMHYc2I\u2026
+id: 569310821966331904, text: How #cities are searching for solutions among massive mounds of #data @globeandmail - Smart Stream on Rolotune #bigdata #DataAnalytics
+id: 569310826189991936, text: RT @SShivagana: Separate the hype from the facts. Online webinars explaining the truth behind #BigData and #DataAnalytics coming soon from \u2026
+id: 569310864077135872, text: #Philadelphia #BigData Job Seekers &amp; #Recruiters, Checkout #Data #AnalyticsFair on #11MAR2015 http://t.co/6VTPfgtVvy #PHL
+id: 569310865352224768, text: 10 Prerequisites Before Getting Into #DataDriven Projects http://t.co/E9s9Iz39IJ #bigdata #analytics
+id: 569310866526642176, text: Technology Considerations for CIOs for Data Driven Organization http://t.co/iWrhrGqg6T #cloud #bigdata #Startup
+id: 569310893944786944, text: RT @SalesChoice_inc: #BigData adoption is a year-long journey for the #enterprise: http://t.co/WE9xto9yfh
+id: 569310930330394624, text: D\u00e9j\u00e0vu. The open data platform, like United Linux before it, will fail http://t.co/wg4KcfxPfv #bigdata
+id: 569310947870973952, text: RT bumgarls: My vision for the #UX of a webpage post when you wrote a post #blogging #entrepreneur #startup #bigdata http://t.co/l6zYbSKcI0
+id: 569311226108497921, text: RT @alessandra_russ: Now entering the universe of #bigdata with @derrickcogburn: look forward to learning more about #textmining #ISABigDat\u2026
+id: 569311273684488192, text: RT @michaelgoldrich: interesting #infographic on history of #bigdata #DataScience http://t.co/T6H2uYJf2n
+id: 569311338079621120, text: [Infographic] Future of the #Database  http://t.co/ty2ABWiC5D #inmemory #BigData
+id: 569311370015059968, text: Thanks BigDataMarketing for the follow! Great to share #JPEG, #BigData and other info!
+id: 569311373429235712, text: Thanks Reco_miendo for the follow! Great to share #JPEG, #BigData and other info!
+id: 569311378822967296, text: RT @ISpeakAnalytics: This is pretty neat. Mapping #socialmedia language trends by geography, using #bigdata.   http://t.co/3Ja8LnafJk
+id: 569311418274738176, text: RT @iotattack: Learn about #bigdata in simple way at Santaclara url on may 4 -5  #hadoop #analytics #datamining #spark #iot #analytics via \u2026
+id: 569311517528625152, text: The #BigData Wars - will your company prevail? Part 2 http://t.co/OSudQstvFe (Part 1 http://t.co/5NYmHvAmlt)
+id: 569311925739196417, text: The term is thrown around, but what is \"The point of big data\" http://t.co/2iHcxEIIMQ #marketing #bigdata
+id: 569311962766684160, text: Cuando #BigData no se traduce en #BigService http://t.co/CvIahpLUn4
+id: 569311964272447488, text: Proud to announce @CenturyLink a founding sponsor of the Open Data Platform #ODP #bigdata http://t.co/crZBIqTJMD
+id: 569311976553357312, text: What you want? - http://t.co/MHIZ4saXn5\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #technology
+id: 569312047911051264, text: RT @HappyAnalytics: #BigData shows information travels. In Europe, countries are divided into eight #clusters. \nhttp://t.co/z7AvaA9oGt http\u2026
+id: 569312057285337088, text: RT @vinceyue666: What you want? - http://t.co/MHIZ4saXn5\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms \u2026
+id: 569312059361501184, text: RT @vinceyue666: Dyno App - oDesk - http://t.co/MXTx8m8OYw\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithm\u2026
+id: 569312060032602112, text: RT @maxxpowerss8: RT vinceyue666: Official Unicef ... - http://t.co/6YPXtebKkV\u00a0\n#appstore #androiddev #gameart #windows #bigdata #project #\u2026
+id: 569312106635534336, text: RT @Rolotuner: How #cities are searching for solutions among massive mounds of #data @globeandmail - Smart Stream on Rolotune #bigdata #Dat\u2026
+id: 569312118127890432, text: RT @michaelgoldrich: interesting #infographic on history of #bigdata #DataScience http://t.co/T6H2uYJf2n
+id: 569312119092609024, text: RT @AlexanderD_Beck: What is the difference between #datascience and Data Engineering http://t.co/VOgSwBe23F #bigdata #hadoop
+id: 569312120791285761, text: RT @tonyojeda3: Data science can't be point and click http://t.co/CT9Hyj2SnH #DataScience #BigData
+id: 569312246079205376, text: RT @eric_kavanagh: Can #BigData change the way that organizations manage, harness and deliver insights? The answer is simply yes: http://t.\u2026
+id: 569312343420755968, text: RT @Infographz: 10 Prerequisites Before Getting Into #DataDriven Projects http://t.co/E9s9Iz39IJ #bigdata #analytics
+id: 569312499897479170, text: Putting Big Data to Work http://t.co/6GTcSI1CJ7 via @wordpressdotcom\n@sumendar #Bigdata #Analytics #Datascience
+id: 569312697008807936, text: RT @Kimba_67: The Internet Of Things Will Radically Change Your #BigData Strategy http://t.co/R7VFd11uxO by @madgreek65 #IOT http://t.co/ni\u2026
+id: 569312888843710465, text: Oscar-nominated films perfectly explained in graphs http://t.co/hVvvxtk0fF via @mashable\n@sumendar #Bigdata #Analytics #Datascience
+id: 569312986545790976, text: RT @AlexanderD_Beck: What is the difference between #datascience and Data Engineering http://t.co/VOgSwBe23F #bigdata #hadoop
+id: 569313035644477440, text: RT @datacentretech: Will Google enter cloud-based data centre market?  http://t.co/cCca7Frv1d #datacentre, #datacenter , #blog, #bigdata,
+id: 569313064178229250, text: RT @DataStaxCareers: DataStax: DSE Software Engineer in Test : (Perfor... (#USAJobs) http://t.co/ae0kS3F4jM #Engineering #BigData #noSQL #D\u2026
+id: 569313140980232193, text: Fear can't dictate #bigdata #law: http://t.co/cHCVp0GxJv
+id: 569313161700085760, text: RT @SocialScaleData: How to use Twitter to manage campaigns. SocialScale makes it easy. #bigdata #socialdata http://t.co/nAGsVcL2Z5
+id: 569313181916643328, text: You won\u2019t believe what your phone system can tell you about the health of your business http://t.co/QJpFIj2qRG #BigData
+id: 569313196697219072, text: 47% of manufacturers expect #Bigdata #Analytics to have a major impact on company performance http://t.co/WDY8xV4lBi @Forbes #CIOChat #CIO
+id: 569313253018304512, text: RT @tonyojeda3: Data science can't be point and click http://t.co/CT9Hyj2SnH #DataScience #BigData
+id: 569313256302489600, text: \"10 Prerequisites Before Getting Into Data Driven Projects\" by @VishalTx on @LinkedIn https://t.co/4FKckuHb1h #Analytics #Datascience
+id: 569313254993821696, text: #bigdata Using network based disease models to look at relationships in #autoimmune disease http://t.co/XIi7Fd9G2z http://t.co/V0WDzCzKgo
+id: 569313296672620544, text: RT @benakiva: #OpenData Day \u2013 Hackathons are the spark, but citizens are the slow burning flame http://t.co/Ffe83G5Aie #bigdata
+id: 569313331992875008, text: RT @renndez: Number Crunching The Academy Awards http://t.co/dc3qH03VEZ #bigdata
+id: 569313371864113152, text: We rarely have dull moments in The Briefing Room! http://t.co/utK0aJdBCW #InsideAnalysis #Tech #Analytics #BigData
+id: 569313373780901888, text: 6 Online Courses to Freshen Up Your Knowledge of #BigData via @DataScienceCtrl http://t.co/pIGlbZkNFf
+id: 569313375362031616, text: RT @benakiva: Linking Diplomacy With Collaborative Mapping During Crises http://t.co/C15MeewmyM via @sharethis #opendata #bigdata
+id: 569313375815139328, text: Power of Personal #analytics http://t.co/S0vFSoCgfN  #bigdata #tech
+id: 569313395528192000, text: Big Data Meets Walt Disney's Magical Approach by @vanrijmenam http://t.co/RP1EDKeVGC #BigData @sumendar #Bigdata #Analytics #Datascience
+id: 569313401006125056, text: RT @Shyam17: Spark Just Passed Hadoop in Popularity on the Web\u2013Here\u2019s Why.#Spark,#BigData, #Hadoop,#MapReduce,#Cloud.#DataStorage.http://t.\u2026
+id: 569313431343378432, text: RT @BastiaanSjardin: What Obama has to say about data-science and big data. #bigdata \nhttps://t.co/dQP9ZakAnI
+id: 569313458493091841, text: RT @renndez: The Growing Emphasis on #BigData for Contingent Workforce Programs http://t.co/n0vsyJMpbg
+id: 569313499731648513, text: RT @TIMA_NC: Move Over, #BigData. Here Comes the Internet of Things. Or Not ...\nhttp://t.co/uVXG0EzBfZ
+id: 569313514478641153, text: RT @benakiva: RT @Microsoft_Gov: Solving urban challenges with #bigdata: http://t.co/JKndvhTc1Z RT @OpenAtMicrosoft #ODD15 #opendata
+id: 569313535999791104, text: Medicine in the data era: How everyone can become a data scientist | The #BigData Hub http://t.co/oaWQY9spyL
+id: 569313553796067328, text: RT @YesItsKathleen: How and Where to Find and Download R https://t.co/izg6ha5ubS via ctovision #bigdata
+id: 569313605587324929, text: RT @benakiva: Time Analytics on #BigData http://t.co/i55k4T336h #Storm #DataAnalytics
+id: 569313654165741568, text: Bringing In The 'Big Guns' \nEU's #BigData Battle Against Terrorism http://t.co/XQdKDL8dGt
+id: 569313657294708736, text: RT @JohndeVoogd: IoT presents opportunities in Central, Eastern European healthcare market http://t.co/4aAHMaoZ8m #bigdata
+id: 569313709341831168, text: RT @judy_selby: Legal Issues to Consider Before Starting #BigData Projects by @judy_selby on @LinkedIn https://t.co/YgBdnaLGDh @Atty_Ben_Ba\u2026
+id: 569313761175085056, text: RT @jainrasik: \"Big Data in little city: In Palo Alto, new digital tools aim to bridge the ... - Palo Alto Online\" http://t.co/a7AgHZscZ7 #\u2026
+id: 569313825507250176, text: RT @gerymesser: Proud to announce @CenturyLink a founding sponsor of the Open Data Platform #ODP #bigdata http://t.co/crZBIqTJMD
+id: 569313892775518209, text: RT @judy_selby: Legal Issues to Consider Before Starting #BigData Projects by @judy_selby on @LinkedIn https://t.co/YgBdnaLGDh @Atty_Ben_Ba\u2026
+id: 569313937642156033, text: RT @judy_selby: Legal Issues to Consider Before Starting #BigData Projects by @judy_selby on @LinkedIn https://t.co/YgBdnaLGDh @Atty_Ben_Ba\u2026
+id: 569313962011041792, text: RT @YesItsKathleen: How and Where to Find and Download R https://t.co/izg6ha5ubS via ctovision #bigdata
+id: 569314128650760192, text: RT @Things_Internet: #IoT What's that thing? Whatever it is, it needs security #tech http://t.co/z4NgHfpcE8 #bigdata
+id: 569314147860672514, text: Recommended Reading: Natural Language Processing with Python http://t.co/UCnFe5dZYy #DataScience #BigData #Python #NLProc
+id: 569314174091681792, text: RT @eric_kavanagh: If you're into #BigData or #Analytics, this is the eNewsletter for you! http://t.co/utK0aJdBCW #InsideAnalysis #BriefR
+id: 569314181268287488, text: RT @DataSciencePrtl: Oscar-nominated films perfectly explained in graphs http://t.co/hVvvxtk0fF via @mashable\n@sumendar #Bigdata #Analytics\u2026
+id: 569314309580263424, text: Not all companies are data driven and not all companies fully comprehend the benefits of analytics #Analytics #BigData @DatAnalitica
+id: 569314421807255552, text: http://t.co/fkZiHE6IoB #startups #bigdata
+id: 569314438001635328, text: RT @Things_Internet: #IoT [INFOGRAPHIC] The Internet of Things and What It Means for Energy #tech http://t.co/kPBqnlXOGz #bigdata
+id: 569314530687385601, text: RT @michaelgoldrich: interesting #infographic on history of #bigdata #DataScience http://t.co/T6H2uYJf2n
+id: 569314585678909440, text: RT @K2Partnering: The third annual Big Data and Extreme Computing conference gathered in Barcelona last month, bringing more than 100 exper\u2026
+id: 569314668080029696, text: RT @sehau_: Within 5 years the #CMO will spend more on IT than the CIO. http://t.co/Ixg1Wsv7pI #BigData is one of the reasons. http://t.co/\u2026
+id: 569314698090438656, text: RT @DistrictDataLab: Recommended Reading: Natural Language Processing with Python http://t.co/UCnFe5dZYy #DataScience #BigData #Python #NLP\u2026
+id: 569314849647423488, text: Via @ForbesTech: 7 potential potholes to avoid on the way to #BigData success http://t.co/dFJBx5O1Cd 7 out of 7 is a bad thing #justsaying
+id: 569314850746343424, text: RT @marcusborba: #BigData adoption is a year-long journey for the enterprise via @luisdans https://t.co/2I1FkWQuZH
+id: 569314884376260608, text: How I would make money from bringing back the concepts of #Usenet and #IRC #entrepreneur #UX #bigdata\u2026 http://t.co/CusZGIcVJM
+id: 569314964764274688, text: RT bumgarls: My vision for the #UX of a webpage post when you wrote a post #blogging #entrepreneur #startup #bigdata http://t.co/l6zYbSKcI0
+id: 569314969235410946, text: RT @marcusborba: #BigData adoption is a year-long journey for the enterprise via @luisdans https://t.co/2I1FkWQuZH
+id: 569315074508230656, text: RT @syvylyze: Without #DataAnalytics #BigData just takes up space.\n#BigDataAnalytics\n#Analytics\n#Hadoop\n http://t.co/7y5J8y4O9q http://t.co\u2026
+id: 569315121153101824, text: RT @BigDataBRA: A procura por solu\u00e7\u00f5es anal\u00edticas em nuvem crescer\u00e1 46% at\u00e9 2020 http://t.co/bxDI1fZOAB #BigData #Analytics #Cloud http://t\u2026
+id: 569315155777073152, text: RT @syvylyze: Without #DataAnalytics #BigData just takes up space.\n#BigDataAnalytics\n#Analytics\n#Hadoop\n http://t.co/7y5J8y4O9q http://t.co\u2026
+id: 569315308068061184, text: nlproc textmining is the key to making the most of bigdata in cancercare http://t.co/nuto5zStLv
+id: 569315385578811392, text: Obsolete Stealth Planes and Submarines likely to be replaced by drone carriers http://t.co/8JBLsMjYeY #BigData
+id: 569315388909068288, text: Computers that tell you to 'buy or sell' http://t.co/lN96hrDqN9 #BigData
+id: 569315432085254145, text: RT @HappyAnalytics: #BigData shows information travels. In Europe, countries are divided into eight #clusters. \nhttp://t.co/z7AvaA9oGt http\u2026
+id: 569315440322842624, text: RT @KTMegin: @TSN690 you say analytics, or advanced stats. I call what the @NHL is doing #bigdata #businessintelligence
+id: 569315540029861888, text: @BigData Daily is out! http://t.co/1XwxzOiWo8 Stories via @IGcollaboratory @DianavdStelt @MEDEFI_redon
+id: 569315548175200256, text: RT @eric_kavanagh: If you're into #BigData or #Analytics, this is the eNewsletter for you! http://t.co/utK0aJdBCW #InsideAnalysis #BriefR
+id: 569315550989553664, text: RT @syvylyze: Without #DataAnalytics #BigData just takes up space.\n#BigDataAnalytics\n#Analytics\n#Hadoop\n http://t.co/7y5J8y4O9q http://t.co\u2026
+id: 569315666207092736, text: RT @datacentretech: Will Google enter cloud-based data centre market?  http://t.co/cCca7Frv1d #datacentre, #datacenter , #blog, #bigdata,
+id: 569315698167521281, text: #Bigdata: Not rocket science, #datascience  http://t.co/xzQpC1AJCo #banking
+id: 569315708036730880, text: #Bigdata to unlock value from the industrial internet of things http://t.co/73zTIVUhlc #iiot #IoT
+id: 569315779889336320, text: These Are The Top 5 Data Center Stories For The Week Of Feb 20th http://t.co/6IENiTQLg7 #bigdata
+id: 569315810625363968, text: \"The past, current &amp; future state of big data\" | Ping Li talks startups, tech w/ John @Furrier \u2013 https://t.co/DebZ3fmnln #thcube #bigdata
+id: 569315811313229824, text: 4 iOS Admob ... - http://t.co/xPPYoF507K\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms #technology
+id: 569315862173364224, text: Cyber Security at Work as at Home http://t.co/sk7lm7ixpo #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecognition #NLP #Cloud
+id: 569316011616428032, text: RT @v_vashishta: #Bigdata: Not rocket science, #datascience  http://t.co/xzQpC1AJCo #banking
+id: 569316013126356992, text: RT @michaelgoldrich: interesting #infographic on history of #bigdata #DataScience http://t.co/T6H2uYJf2n
+id: 569316021804388352, text: RT @AnRcloudSoft: Cyber Security at Work as at Home http://t.co/sk7lm7ixpo #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecog\u2026
+id: 569316023079456770, text: RT @vinceyue666: 4 iOS Admob ... - http://t.co/xPPYoF507K\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms\u2026
+id: 569316024337571840, text: RT @Accel: \"The past, current &amp; future state of big data\" | Ping Li talks startups, tech w/ John @Furrier \u2013 https://t.co/DebZ3fmnln #thcube\u2026
+id: 569316025348579329, text: RT @renndez: These Are The Top 5 Data Center Stories For The Week Of Feb 20th http://t.co/6IENiTQLg7 #bigdata
+id: 569316026116153344, text: RT @V2_Consulting: #Bigdata to unlock value from the industrial internet of things http://t.co/73zTIVUhlc #iiot #IoT
+id: 569316244878282752, text: RT @v_vashishta: #Bigdata: Not rocket science, #datascience  http://t.co/xzQpC1AJCo #banking
+id: 569316263442296832, text: TeradataVoice: Eight Hadoop Trends For 2015 http://t.co/RbtTWc6dRe via @forbes @sumendar #Bigdata #Analytics #Datascience
+id: 569316302998802432, text: Oracle and Ericsson unveil big data products ahead of MWC: Another new products from Oracle is Golden... http://t.co/NDnx8SAn1H #BigData
+id: 569316309852409857, text: #Bigdata to unlock value from the industrial internet of things http://t.co/TZTHV6ipm5 #iiot #IoT via @V2_Consulting
+id: 569316413237653504, text: RT @lonestarsally: Oracle and Ericsson unveil big data products ahead of MWC: Another new products from Oracle is Golden... http://t.co/NDn\u2026
+id: 569316414663868416, text: RT @osmelbrito: Not all companies are data driven and not all companies fully comprehend the benefits of analytics #Analytics #BigData @Dat\u2026
+id: 569316417385992193, text: V2_Consulting: #Bigdata to unlock value from the industrial internet of things http://t.co/03a2m58g0Y #iiot #IoT
+id: 569316420913405952, text: AnRcloudSoft: Cyber Security at Work as at Home http://t.co/nzCEaQehua #CyberSecurity #Privacy #Data #BigData #IoT #SmartTV #VoiceRecogni\u2026
+id: 569316426646986752, text: Data88Geek: RT AnRcloudSoft: Cyber Security at Work as at Home http://t.co/nzCEaQehua #CyberSecurity #Privacy #Data #BigData #IoT #SmartT\u2026
+id: 569316428677042176, text: Data88Geek: RT V2_Consulting: #Bigdata to unlock value from the industrial internet of things http://t.co/03a2m58g0Y #iiot #IoT
+id: 569316453721120768, text: RT @DistrictDataLab: Recommended Reading: Natural Language Processing with Python http://t.co/UCnFe5dZYy #DataScience #BigData #Python #NLP\u2026
+id: 569316509610176514, text: RT @renndez: Bringing In The 'Big Guns' \nEU's #BigData Battle Against Terrorism http://t.co/XQdKDL8dGt
+id: 569316553730105345, text: RT @zotspot: Power of Personal #analytics http://t.co/S0vFSoCgfN  #bigdata #tech
+id: 569316588836356096, text: RT @stephenjeske: 6 Online Courses to Freshen Up Your Knowledge of #BigData via @DataScienceCtrl http://t.co/pIGlbZkNFf
+id: 569316619694018560, text: RT @DistrictDataLab: Recommended Reading: Natural Language Processing with Python http://t.co/UCnFe5dZYy #DataScience #BigData #Python #NLP\u2026
+id: 569316628048973824, text: RT @DrBonnie360: #bigdata Using network based disease models to look at relationships in #autoimmune disease http://t.co/XIi7Fd9G2z http://\u2026
+id: 569316692506992640, text: RT @MarcWilczek: 47% of manufacturers expect #Bigdata #Analytics to have a major impact on company performance http://t.co/WDY8xV4lBi @Forb\u2026
+id: 569316744382193664, text: RT @8x8: You won\u2019t believe what your phone system can tell you about the health of your business http://t.co/QJpFIj2qRG #BigData
+id: 569316747318161408, text: RT @DistrictDataLab: Recommended Reading: Natural Language Processing with Python http://t.co/UCnFe5dZYy #DataScience #BigData #Python #NLP\u2026
+id: 569316771464749056, text: RT @SalesChoice_inc: Fear can't dictate #bigdata #law: http://t.co/cHCVp0GxJv
+id: 569316831825014784, text: RT @DataSciencePrtl: Oscar-nominated films perfectly explained in graphs http://t.co/hVvvxtk0fF via @mashable\n@sumendar #Bigdata #Analytics\u2026
+id: 569316854272892929, text: RT @vinceyue666: What you want? - http://t.co/MHIZ4saXn5\n#appstore #androiddev #gameart #windows #bigdata #project #freelancer #algorithms \u2026
+id: 569316855602507776, text: Videos from Strata + Hadoop World 2015 - http://t.co/DNeO1Lp93y  @strataconf #bigdata #Hadoop
+id: 569316893372190720, text: RT @renndez: The #BigData Wars - will your company prevail? Part 2 http://t.co/OSudQstvFe (Part 1 http://t.co/5NYmHvAmlt)
+id: 569316936837828609, text: RT @CustmrCom: Technology Considerations for CIOs for Data Driven Organization http://t.co/iWrhrGqg6T #cloud #bigdata #Startup
+id: 569316944626761728, text: RT @SocialScaleData: How to use Twitter to manage campaigns. SocialScale makes it easy. #bigdata #socialdata http://t.co/nngtDlw6kK
+id: 569316971860217858, text: RT @Infographz: 10 Prerequisites Before Getting Into #DataDriven Projects http://t.co/E9s9Iz39IJ #bigdata #analytics
+id: 569317019419418625, text: RT @bumgarls: Using #bigdata and searchable live chat integration into threaded discussions to challenge eBay could\u2026 http://t.co/qk2GuvGdZr
+id: 569317123291353088, text: Oracle and Ericsson unveil #bigdata products ahead of MWC\nhttp://t.co/PDuPDE60WF #analytics #games #mobile #technology #tech
+id: 569317142811811840, text: 400 years later, the law of large numbers ends up with #BigData #DataScience
+id: 569317165654016001, text: RT @lonestarsally: Oracle and Ericsson unveil big data products ahead of MWC: Another new products from Oracle is Golden... http://t.co/NDn\u2026
+id: 569317308704956416, text: RT @lonestarsally: Oracle and Ericsson unveil big data products ahead of MWC: Another new products from Oracle is Golden... http://t.co/NDn\u2026
+id: 569317309980024832, text: RT @dr_senfoel: 400 years later, the law of large numbers ends up with #BigData #DataScience
+id: 569317310768537600, text: RT @techNmanagement: Oracle and Ericsson unveil #bigdata products ahead of MWC\nhttp://t.co/PDuPDE60WF #analytics #games #mobile #technology\u2026
+id: 569317311544496129, text: RT @bumgarls: Using #bigdata and searchable live chat integration into threaded discussions to challenge eBay could\u2026 http://t.co/qk2GuvGdZr
+id: 569317312450457600, text: RT @lonestarsally: Oracle and Ericsson unveil big data products ahead of MWC: Another new products from Oracle is Golden... http://t.co/NDn\u2026
+id: 569317312349773824, text: RT @Infographz: 10 Prerequisites Before Getting Into #DataDriven Projects http://t.co/E9s9Iz39IJ #bigdata #analytics
+id: 569317313247358976, text: RT @dr_senfoel: 400 years later, the law of large numbers ends up with #BigData #DataScience
+id: 569317313977176064, text: RT @techNmanagement: Oracle and Ericsson unveil #bigdata products ahead of MWC\nhttp://t.co/PDuPDE60WF #analytics #games #mobile #technology\u2026
+id: 569317314744741888, text: RT @bumgarls: Using #bigdata and searchable live chat integration into threaded discussions to challenge eBay could\u2026 http://t.co/qk2GuvGdZr
+id: 569317315537469440, text: RT @Infographz: 10 Prerequisites Before Getting Into #DataDriven Projects http://t.co/E9s9Iz39IJ #bigdata #analytics
+id: 569317359997083648, text: RT @KruxDigital: Gartner Classifies #BigData Trends to Transform Business Processes:\nhttp://t.co/Obi7y9klJC http://t.co/cnvdwz8it1

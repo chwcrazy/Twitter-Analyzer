@@ -1,0 +1,5 @@
+__author__ = 'chenghaowei'
+OAuthConsKey = 'AMc400nhpYu24keeVpYlQ9MYh'
+OAuthConsSecret = 'X65ZliVVV0U2OWQSdCwVP6KfciMZ0tg3c3wSdF7LO8GI0SNfiW'
+OAuthToken = '215632871-4j7rK75ssUZFupYVwH4F2EWnKFYwpepF2utqYZjP'
+OAuthTokenSecret = 'YaxjCE4MoQ4DPcCSDhbbnVILJd1lkOBSpqeKNxi61fMc8'
